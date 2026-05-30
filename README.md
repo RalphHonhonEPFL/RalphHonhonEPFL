@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Ralph Honhon</h1>
 
 <p align="center">
   <em>Bachelor's student in Microengineering at <strong>EPFL</strong> — bridging hardware precision with software innovation</em>
@@ -47,26 +47,3 @@ I am passionate about building precise, efficient, and elegant solutions — whe
 
 - **Node.js** — backend development, REST APIs, real-time applications
 - **Next.js** — full-stack React applications, server-side rendering, modern web experiences
-
------
-
-## 📌 What I’m Working On
-
-- 🔭 Engineering projects at EPFL combining **mechanical design and software**
-- 🌱 Deepening my knowledge in **embedded systems** and **full-stack development**
-- 🤝 Open to **collaborations**, **internships**, and **innovative projects**
-
------
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
-
------
-
-<p align="center">
-  <sub>⚡ Precision in design. Clarity in code. Built at EPFL.</sub>
-</p>
