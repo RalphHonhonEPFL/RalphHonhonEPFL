@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ralph Honhon</h1>
+<h1 align="center">Hi there, I'm Ralph Honhon</h1>
 
 <p align="center">
   <em>Bachelor's student in Microengineering at <strong>EPFL</strong> — bridging hardware precision with software innovation</em>
@@ -16,7 +16,7 @@
 
 -----
 
-## 🎓 About Me
+## About Me
 
 I am a **Microengineering Bachelor’s student at EPFL** (École Polytechnique Fédérale de Lausanne), one of the world’s leading technical universities. My academic background sits at the intersection of **mechanical design**, **electronics**, and **software engineering** — giving me a multidisciplinary perspective that I apply to every project I take on.
 
@@ -24,16 +24,16 @@ I am passionate about building precise, efficient, and elegant solutions — whe
 
 -----
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 🔧 CAD & Mechanical Design
+### CAD & Mechanical Design
 
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 - Parametric and surface modeling with **CATIA V5/V6**
 - Design for manufacturing, assemblies, and technical drawings
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +41,7 @@ I am passionate about building precise, efficient, and elegant solutions — whe
 - **C++** — systems programming, embedded development, performance-critical applications
 - **Python** — data processing, scripting, automation, scientific computing
 
-### 🌐 Web Development
+### Web Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
